@@ -72,4 +72,12 @@ function apiSearch(event) {
 
 searchForm.addEventListener('submit', apiSearch);
 ```
+## Experience:  
+- CodeAcademy profile [@nshebeko](https://www.codecademy.com/nshebeko)  
+- HTML Academy profile [@nshebeko](https://htmlacademy.ru/profile/nshebeko)
 
+## Education:
+Graduated Lobachevsky State University of Nizhny Novgorod in 2007 faculty of Applied Informatics.
+
+## English:
+I studied English at school and university. At the courses in Skyeng they put me on level A1 Elementary.
