@@ -18,25 +18,27 @@ body {
     padding-top: 38px;
 }
 
+
 h1 {
     font-size: 32px;
-    line-height: 64px;
+    line-height: 78px;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 20px;
+    text-transform: uppercase;
 }
 
 .profile-photo {
-    border-radius: 100%;
     width: 150px;
     height: 150px;
-    margin-bottom: 16px;
+    border-radius: 100%;
 }
 
 .profile-contacts {
     display: flex;
     justify-content: center;
+    margin-bottom: 80px;
 }
 
 svg {
@@ -50,4 +52,28 @@ svg {
     vertical-align: middle;
     margin-left: 16px;
     margin-right: 16px;
+}
+
+.about,
+.skills,
+.experience,
+.education,
+.english {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    
+}
+
+.section-title {
+    width: 300px;
+    padding: 5px 0px 5px 95px;
+}
+
+.section-text {
+    width: 450px;
+    border-left: 1px solid #ececec;
+    padding: 5px 55px 5px 55px;
+    font-size: 16px;
+    line-height: 24px;
 }
